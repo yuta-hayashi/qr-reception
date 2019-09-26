@@ -1,6 +1,10 @@
 # qr-reception
 
-> My world-class Nuxt.js project
+GoogleAppsScriptとSpreadsheetでの受付システムのQr-Codeを読み取るクライアントアプリです。
+別途GoogleAppsScriptとSpreadSheetの設定が必要になります。
+
+Qiitaで記事書きました。
+https://qiita.com/HYuta999/items/8858c062d3a2aaadea8c
 
 ## Build Setup
 
